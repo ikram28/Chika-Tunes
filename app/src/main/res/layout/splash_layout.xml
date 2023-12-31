@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/black">
+
+
+        <ImageView
+            android:id="@+id/imageViewLogo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/music_ic"
+            android:layout_gravity="center"
+            />
+
+
+        <TextView
+            android:id="@+id/textViewBelowImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ChiKa Tunes"
+            android:textSize="60sp"
+            android:layout_gravity="center"
+            android:textColor="@color/lightp"
+            android:layout_marginTop="250dp"
+            android:fontFamily="@font/myfont"
+            />
+
+
+
+
+
+    </FrameLayout>
+
+</RelativeLayout>
