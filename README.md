@@ -43,6 +43,6 @@ Chika Tunes employs the Android MediaPlayer class for audio playback, offering a
 ## Future Development
 The application has a solid foundation, and future updates may include additional features, user interface enhancements, and support for more file formats. 
 
-Authors:
-Ikram Belmadani
-Chaimae Biyaye
+## Authors:
+- Ikram Belmadani
+- Chaimae Biyaye
